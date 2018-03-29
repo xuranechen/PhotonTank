@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonTank", "PhotonTank.csproj", "{712DA5B5-125A-99D7-2B5A-D712B1DF1272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonTank.Plugins", "PhotonTank.Plugins.csproj", "{19BC85E2-7388-2B08-E47F-21D015339965}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotonTank.Editor", "PhotonTank.Editor.csproj", "{7BF61607-7152-9D3D-E1DF-ABC3C0518E18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712DA5B5-125A-99D7-2B5A-D712B1DF1272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712DA5B5-125A-99D7-2B5A-D712B1DF1272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712DA5B5-125A-99D7-2B5A-D712B1DF1272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712DA5B5-125A-99D7-2B5A-D712B1DF1272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19BC85E2-7388-2B08-E47F-21D015339965}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BC85E2-7388-2B08-E47F-21D015339965}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BC85E2-7388-2B08-E47F-21D015339965}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BC85E2-7388-2B08-E47F-21D015339965}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF61607-7152-9D3D-E1DF-ABC3C0518E18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF61607-7152-9D3D-E1DF-ABC3C0518E18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF61607-7152-9D3D-E1DF-ABC3C0518E18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF61607-7152-9D3D-E1DF-ABC3C0518E18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
